@@ -1,0 +1,1 @@
+BrickBreaker is a lightweight Java Swing arcade game in which the player controls a paddle to shoot the ball and shatter bricks. It has smooth play, live score display, and simple controls. Clone the repo, load it in a Java IDE, and execute Main.java to play. Possible future enhancements are power-ups, additional levels, and sound effects.
